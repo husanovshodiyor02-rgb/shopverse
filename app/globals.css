@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  font-family: var(--font-inter);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-poppins);
+}
+
+
+.container1{
+  max-width: 1260px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
